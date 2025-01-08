@@ -18,7 +18,7 @@ Online judge system - **https://judge.softuni.org/** 📊
 [![My Skills](https://skillicons.dev/icons?i=python,django,postgresql,git,html,css,linux,apple,windows&theme=light)](https://skillicons.dev)
 
 ## Practical Tasks: 
-➡ [**Pattern Drawing**]()
+➡ [**Python Pattern Drawing**](https://github.com/zahariev-webbersof/python-fundamentals-01-2025/blob/main/Python%20Pattern%20Drawing%20Project.md)
 
 
 ## Additional Resources:
