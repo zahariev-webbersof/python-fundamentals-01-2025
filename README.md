@@ -20,11 +20,81 @@ Online judge system - **https://judge.softuni.org/** 📊
 ## Practical Tasks: 
 ➡ [**Python Pattern Drawing**](https://github.com/zahariev-webbersof/python-fundamentals-01-2025/blob/main/Python%20Pattern%20Drawing%20Project.md)
 
+<br>
 
-## Additional Resources:
+</br>
+<br>
 
-➡ [**Course page - Programming Fundamentals with Python - January 2025**](https://softuni.bg/trainings/4832/programming-fundamentals-with-python-january-2025)
+</br>
+<br>
 
-➡ [**Official Python documentation**](https://docs.python.org/3/)
+</br>
 
+
+![2048_d5964e5351708047190e99b52500b47a](https://pythonresource.net/static/main/logo4.png)
+
+
+### 🌟 Official Python Documentation
+➡  **[Python Docs](https://docs.python.org/3/)**  
+  The official Python documentation is an excellent place to learn about Python's features, libraries, and syntax. It is updated with every Python release.
+
+### 🎓 Online Tutorials and Courses
+➡  **[Python for Everybody (Coursera)](https://www.coursera.org/specializations/python)**
+   - A beginner-friendly course covering the basics of Python programming.
+     
+➡  **[FreeCodeCamp - Python for Beginners](https://www.freecodecamp.org/news/python-tutorial-for-beginners/)**  
+   - A detailed, free Python course that covers everything from variables to object-oriented programming.
+     
+➡  **[Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)**
+   - A practical guide to using Python to automate everyday tasks.
+
+### 📖 Python Books
+➡  **[Python Crash Course by Eric Matthes](https://nostarch.com/pythoncrashcourse2e)**  
+   - A hands-on guide to learning Python with projects and exercises.
+     
+➡  **[Learn Python the Hard Way](https://learnpythonthehardway.org/)**  
+   - A step-by-step guide to Python, perfect for beginners.
+     
+➡  **[Think Python by Allen B. Downey](https://greenteapress.com/wp/think-python-2e/)**  
+   - A free book that dives deep into Python concepts with exercises.
+
+### 🧩 Interactive Platforms
+➡  **[Replit](https://replit.com/)**  
+   - An online IDE where you can practice Python coding in your browser.
+     
+➡  **[Kaggle](https://www.kaggle.com/)**  
+   - Practice Python through data science and machine learning projects.
+     
+➡  **[HackerRank](https://www.hackerrank.com/domains/tutorials/10-days-of-python)**  
+   - Solve Python coding challenges to improve your problem-solving skills.
+
+## 🛠 Tools for Python Development
+### IDEs and Code Editors
+➡  **[PyCharm](https://www.jetbrains.com/pycharm/)**: A powerful IDE for Python.  
+➡  **[Visual Studio Code](https://code.visualstudio.com/)**: Lightweight and extensible for Python development.  
+➡  **[Jupyter Notebook](https://jupyter.org/)**: Great for data analysis and learning Python interactively.
+
+## 🌍 Community and Forums
+➡  **[Python Reddit Community](https://www.reddit.com/r/learnpython/)**  
+   - A supportive community for asking Python-related questions.
+     
+➡  **[Stack Overflow - Python](https://stackoverflow.com/questions/tagged/python)**  
+   - Search for answers or ask questions about Python.
+     
+➡  **[Python Discord](https://pythondiscord.com/)**  
+   - Join Python enthusiasts for discussions and live help.
+
+## 🎯 Additional Learning Paths
+➡  **[Python.org Beginner's Guide](https://wiki.python.org/moin/BeginnersGuide)**  
+   - A comprehensive guide for Python newcomers.
+     
+➡  **[Real Python](https://realpython.com/)**  
+   - Tutorials, courses, and resources for Python programmers.
+     
+➡  **[W3Schools Python Tutorial](https://www.w3schools.com/python/)**  
+   - Beginner-friendly tutorials with interactive examples.
+
+### ✨ Bonus Practice Platforms
+➡  **[LeetCode - Python Problems](https://leetcode.com/problemset/all/?difficulty=EASY&page=1&tag=python)**  
+➡  **[CodeWars](https://www.codewars.com/)**  
 
