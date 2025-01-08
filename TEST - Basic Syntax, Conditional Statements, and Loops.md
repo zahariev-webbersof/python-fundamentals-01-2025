@@ -1,5 +1,3 @@
----
-
 # 📝 Python Fundamentals Quiz
 
 This quiz will test your understanding of **Basic Syntax**, **Conditional Statements**, and **Loops** in Python. Each question includes multiple-choice options, and answers are provided with explanations. 
