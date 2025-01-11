@@ -18,7 +18,7 @@ choice = int(input(Fore.LIGHTWHITE_EX + "Enter the number corresponding to your 
 
 rows = 0
 size = 0
-result = ''
+
 quit_message = False
 
 while not quit_message:
@@ -26,7 +26,7 @@ while not quit_message:
     # Step 3: Get dimensions based on choice
     if choice in [1, 3, 4, 6, 7]:  # Patterns that need the number of rows
         rows = int(input("Enter the number of rows: "))
-    elif choice in [2, 5, 9]:  # remove choice 8 since it doesn't need size
+    elif choice in [2, 5, 9]:  # removed choice 8 since it doesn't need size
         size = int(input("Enter the size of the figure: "))
 
     # Step 4: Generate the selected pattern
