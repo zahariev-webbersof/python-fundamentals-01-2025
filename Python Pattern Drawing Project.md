@@ -126,6 +126,8 @@ print("5. Hollow Square")
 print("6. Pyramid")
 print("7. Reverse Pyramid")
 print("8. Rectangle with Hollow Center")
+print("9. Butterfly")
+print("10. Cross")
 
 # Step 2: Get the user's choice
 choice = int(input(Fore.LIGHTWHITE_EX + "Enter the number corresponding to your choice: "))
@@ -275,6 +277,30 @@ while not quit_message:
             print(char2 * (2 * (size - num)), end="")
             print(num * char1)
 
+    elif choice == 10:  # Cross
+        dimension = int(input())
+        half_range = int(dimension / 2)
+        char1 = '   '
+        char2 = Fore.LIGHTYELLOW_EX + '✝  '
+        if dimension % 2 == 0:
+            for char in range(half_range - 1):
+                print(char1 * (half_range - 1), end='')
+                print(char2 * 2)
+            print(char2 * dimension)
+        else:
+            for char in range(half_range):
+                print(char1 * half_range, end='')
+                print(char2)
+            print(char2 * dimension)
+        if dimension % 2 == 0:
+            print(char2 * dimension)
+            for char in range(half_range - 1):
+                print(char1 * (half_range - 1), end='')
+                print(char2 * 2)
+        else:
+            for char in range(half_range):
+                print(char1 * half_range, end='')
+                print(char2)    
     else:
         print("❌ Invalid choice! Please restart the program.")
 
