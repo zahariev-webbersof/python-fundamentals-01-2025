@@ -142,7 +142,7 @@ while not quit_message:
     # Step 3: Get dimensions based on choice
     if choice in [1, 3, 4, 6, 7]:  # Patterns that need the number of rows
         rows = int(input("Enter the number of rows: "))
-    elif choice in [2, 5, 9]:  # removed choice 8 since it doesn't need size
+    elif choice in [2, 5, 9, 10]:  # removed choice 8 since it doesn't need size
         size = int(input("Enter the size of the figure: "))
 
     # Step 4: Generate the selected pattern
@@ -278,29 +278,29 @@ while not quit_message:
             print(num * char1)
 
     elif choice == 10:  # Cross
-        dimension = int(input())
-        half_range = int(dimension / 2)
+        half_range = int(size / 2)
         char1 = '   '
         char2 = Fore.LIGHTYELLOW_EX + '✝  '
-        if dimension % 2 == 0:
+        if size % 2 == 0:
             for char in range(half_range - 1):
                 print(char1 * (half_range - 1), end='')
                 print(char2 * 2)
-            print(char2 * dimension)
+            print(char2 * size)
         else:
             for char in range(half_range):
                 print(char1 * half_range, end='')
                 print(char2)
-            print(char2 * dimension)
-        if dimension % 2 == 0:
-            print(char2 * dimension)
+            print(char2 * size)
+        if size % 2 == 0:
+            print(char2 * size)
             for char in range(half_range - 1):
                 print(char1 * (half_range - 1), end='')
                 print(char2 * 2)
         else:
             for char in range(half_range):
                 print(char1 * half_range, end='')
-                print(char2)    
+                print(char2)
+  
     else:
         print("❌ Invalid choice! Please restart the program.")
 
