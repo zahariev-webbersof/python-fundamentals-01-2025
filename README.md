@@ -20,6 +20,8 @@ Online judge system - **https://judge.softuni.org/** 📊
 ## Practical Tasks: 
 ➡ [**Python Pattern Drawing**](https://github.com/zahariev-webbersof/python-fundamentals-01-2025/blob/main/Python%20Pattern%20Drawing%20Project.md)
 
+➡ [**Personal Fitness Tracker System**](https://github.com/zahariev-webbersof/python-fundamentals-01-2025/blob/main/Personal%20Fitness%20Tracker%20System.md)
+
 <br>
 
 </br>
