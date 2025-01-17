@@ -4,7 +4,7 @@
 
 ## 🌟 **Project Goal**  
 The goal of this project is to create a fitness tracker system that enables users to:  
-- Log workouts and calorie intake.  
+- Log workouts and calorie intake.   
 - Track their daily progress.  
 - Reset daily progress and receive motivational feedback.  
 
