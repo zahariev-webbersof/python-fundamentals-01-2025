@@ -12,6 +12,8 @@ Online judge system - **https://judge.softuni.org/** 📊
 ➡ [**Basic Syntax, Conditional Statements and Loops**](https://github.com/zahariev-webbersof/python-fundamentals-01-2025/tree/main/basic_syntax) 
 
 ➡ [**Data Types and Variables**](https://github.com/zahariev-webbersof/python-fundamentals-01-2025/tree/main/data_types_and_variables)
+
+➡ [**List Basic**]()
  
 ## Theory Тests:
 ➡ [**Basic Syntax - TEST**](https://github.com/zahariev-webbersof/python-fundamentals-01-2025/blob/main/TEST%20-%20Basic%20Syntax,%20Conditional%20Statements,%20and%20Loops.md)
@@ -19,6 +21,8 @@ Online judge system - **https://judge.softuni.org/** 📊
 ➡ [**Python Variables and Data Types - Test**](https://github.com/zahariev-webbersof/python-fundamentals-01-2025/blob/main/Python%20Variables%20and%20Data%20Types%20-%20Test.md)
 
 ➡ [**List basic - TEST**](https://github.com/zahariev-webbersof/python-fundamentals-01-2025/blob/main/List%20basic%20%20-%20TEST.md)
+
+➡ [**Functions**](https://github.com/zahariev-webbersof/python-fundamentals-01-2025/blob/main/Functions%20-%20TEST.md)
  
 ## Technology Stack:  
 [![My Skills](https://skillicons.dev/icons?i=python,django,postgresql,git,html,css,linux,apple,windows&theme=light)](https://skillicons.dev)
