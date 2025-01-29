@@ -34,7 +34,7 @@ Online judge system - **https://judge.softuni.org/** 📊
 
 ➡ [**Bank Account Management System**](https://github.com/zahariev-webbersof/python-fundamentals-01-2025/blob/main/Bank%20Account%20Management%20System.md)
 
-➡ [**Groq AI Tool**]()
+➡ [**Groq AI Tool**](https://github.com/zahariev-webbersof/python-fundamentals-01-2025/blob/main/groq_ai_tool.md)
 
 <br>
 
