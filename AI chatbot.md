@@ -1,4 +1,8 @@
 ## **🧠 AI Chatbot – Python Project**  
+
+![AI-chat-5](https://github.com/user-attachments/assets/b9800ed8-2833-4718-b33a-9d1676abc38f)
+
+
 ### **🎯 Learning Goals**  
 1. **Understand Core Programming Concepts**: Loops, functions, and conditional statements.  
 2. **Work with Data Structures**: Lists and dictionaries for chatbot responses.  
