@@ -40,6 +40,8 @@ Online judge system - **https://judge.softuni.org/** 📊
 
 ➡ [**Groq AI Tool**](https://github.com/zahariev-webbersof/python-fundamentals-01-2025/blob/main/groq_ai_tool.md)
 
+➡ [**AI Chatbot**](https://github.com/zahariev-webbersof/python-fundamentals-01-2025/blob/main/AI%20chatbot.md)
+
 <br>
 
 </br>
