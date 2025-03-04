@@ -14,7 +14,7 @@ Online judge system - **https://judge.softuni.org/** 📊
 ➡ [**Data Types and Variables**](https://github.com/zahariev-webbersof/python-fundamentals-01-2025/tree/main/data_types_and_variables)
  
 ➡ [**List Basic**](https://github.com/zahariev-webbersof/python-fundamentals-01-2025/tree/main/list_basic)
-
+ 
 ➡ [**Functions**](https://github.com/zahariev-webbersof/python-fundamentals-01-2025/tree/main/functions)
  
 ## Theory Тests: 
