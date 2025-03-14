@@ -44,6 +44,8 @@ Online judge system - **https://judge.softuni.org/** 📊
 
 ➡ [**AI Chatbot**](https://github.com/zahariev-webbersof/python-fundamentals-01-2025/blob/main/AI%20chatbot.md)
 
+➡ [**Python Regex Project**](https://github.com/zahariev-webbersof/python-fundamentals-01-2025/blob/main/Python%20REGEX%20project.md)
+
 <br>
 
 </br>
