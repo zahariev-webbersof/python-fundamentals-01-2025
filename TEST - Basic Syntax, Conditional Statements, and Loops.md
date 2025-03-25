@@ -6,7 +6,7 @@ This quiz will test your understanding of **Basic Syntax**, **Conditional Statem
 
 ### 🔢 1. What is the correct way to define a variable in Python?
 
-- A: `variable_name = value`  
+- A: `variable_name = value` # Няма ли нужда от "value" или 'value', тъй като така я виждам като променлива = променлива?
 - B: `var variable_name = value`  
 - C: `variable = value;`  
 - D: `None of the above`  
